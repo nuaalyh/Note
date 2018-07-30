@@ -1,0 +1,1 @@
+[ubuntu安装 tensorflow GPU](https://blog.csdn.net/dcrmg/article/details/79606674)  
