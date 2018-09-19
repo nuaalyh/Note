@@ -2,7 +2,7 @@
 
 切换用户  su goaluser
 
-[增加删除用户](https://blog.csdn.net/beitiandijun/article/details/41678251) 
+[增加删除用户](https://blog.csdn.net/beitiandijun/article/details/41678251)   [用户和组的管理](https://blog.csdn.net/qq_26626709/article/details/78889899)
 
 cd      进入用户主目录；
 

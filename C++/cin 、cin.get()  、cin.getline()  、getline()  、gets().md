@@ -1,0 +1,1 @@
+[cin 、cin.get()  、cin.getline()  、getline()  、gets() ](https://blog.csdn.net/JIEJINQUANIL/article/details/50802902) 
